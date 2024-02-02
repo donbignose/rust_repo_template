@@ -25,15 +25,14 @@ git clone https://github.com/donbignose/rust-project-template.git
 ```
 
 2. **Install Dependencies**: Make sure you have Rust and Cargo installed. You
-   can download them from
-   [rust-lang.org](https://www.rust-lang.org/learn/get-started).
+   can download them from [rust-lang.org](https://www.rust-lang.org/learn/get-started).
 
 3. **Configure Pre-Commit Hooks**: This template uses pre-commit hooks managed
    by the `pre-commit` tool. Install it following the instructions
    [here](https://pre-commit.com/#install) and set up the hooks with:
 
 ```sh
-pre.commit install
+pre-commit install
 ```
 
 ## Usage
