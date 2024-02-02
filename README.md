@@ -1,4 +1,4 @@
-# Rust Project Template
+# Rust Project Template 🦀
 
 This Rust Project Template is designed to provide a comprehensive starting point
 for Rust-based projects. It integrates several tools and practices to ensure
